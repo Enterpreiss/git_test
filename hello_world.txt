@@ -1,1 +1,2 @@
 Hello Odin!
+I need to try out the git commit message via VS Code.
